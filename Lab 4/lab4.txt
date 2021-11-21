@@ -1,6 +1,0 @@
-Sakura;Moleskine;Talens;Rosa studio;Xenos
-Sketchbook price:0.15;8;7;10;9;10
-Paper types:0.2;9;9;9;10;10
-GSM:0.25;9;9;8;7;10
-Paper quality:0.25;10;10;9;8;9
-Number of pages:0.15;10;9;10;7;8
